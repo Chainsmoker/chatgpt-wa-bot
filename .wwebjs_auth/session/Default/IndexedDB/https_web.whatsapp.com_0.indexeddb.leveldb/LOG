@@ -1,0 +1,21 @@
+2023/02/19-11:11:42.944 cb2c Reusing MANIFEST /home/calvin/projects/scripts/openia/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/19-11:11:42.945 cb2c Recovering log #315
+2023/02/19-11:11:42.954 cb2c Reusing old log /home/calvin/projects/scripts/openia/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000315.log 
+2023/02/19-11:14:07.320 cb2c Level-0 table #320: started
+2023/02/19-11:14:07.342 cb2c Level-0 table #320: 960383 bytes OK
+2023/02/19-11:14:07.345 cb2c Delete type=0 #315
+2023/02/19-11:14:08.236 cb39 Compacting 1@1 + 1@2 files
+2023/02/19-11:14:08.296 cb39 Generated table #321@1: 31495 keys, 1549463 bytes
+2023/02/19-11:14:08.296 cb39 Compacted 1@1 + 1@2 files => 1549463 bytes
+2023/02/19-11:14:08.298 cb39 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/19-11:14:08.298 cb39 Delete type=2 #317
+2023/02/19-11:14:08.298 cb39 Delete type=2 #320
+2023/02/19-11:14:52.274 cb2e Level-0 table #323: started
+2023/02/19-11:14:52.295 cb2e Level-0 table #323: 891734 bytes OK
+2023/02/19-11:14:52.296 cb2e Delete type=0 #319
+2023/02/19-11:14:54.040 cb2c Compacting 1@1 + 1@2 files
+2023/02/19-11:14:54.101 cb2c Generated table #324@1: 33495 keys, 1647283 bytes
+2023/02/19-11:14:54.101 cb2c Compacted 1@1 + 1@2 files => 1647283 bytes
+2023/02/19-11:14:54.102 cb2c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/02/19-11:14:54.102 cb2c Delete type=2 #323
+2023/02/19-11:14:54.102 cb2c Delete type=2 #321
